@@ -36,7 +36,7 @@ E.g.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abongsjoel/caesar-cipher/issues).
+Feel free to check the [issues page](https://github.com/abongsjoel/stock-picker/issues).
 
 
 ## Show your support
