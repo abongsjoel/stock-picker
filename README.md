@@ -15,7 +15,7 @@ E.g.
 
 ## Live Demo
 
-[Repl.it Link](https://repl.it/@abongsjoel/substrings#main.rb)
+[Repl.it Link](https://repl.it/@abongsjoel/stock-picker)
 
 
 ## Author
