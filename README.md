@@ -10,6 +10,28 @@ E.g.
   => [1,4]  # for a profit of $15 - $3 == $12
 ```
 
+## Getting Started
+
+This project is built with Ruby and run at the terminal so in order run it:
+
+- You start by installing ruby on your computer
+> [Installing Ruby](https://www.theodinproject.com/courses/ruby-programming/lessons/installing-ruby-ruby-programming)
+
+- Then you clone the project from githup into a local repository
+  ```
+  git clone git@github.com:abongsjoel/stock-picker.git
+  ```
+- Navigagte into the stock-picker folder
+  ```
+  cd stock-picker
+  ```
+- Run the application using the following command
+  ```
+  ruby main.rb
+  ```
+- Voila
+- Enjoy
+
 ## Built With
 
 - Ruby
